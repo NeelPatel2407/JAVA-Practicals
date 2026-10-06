@@ -18,7 +18,6 @@ public class P1_partA_2{
             if(number.equalsIgnoreCase("done")){
                 break;
             }
-
             System.out.print("Enter vehicle type (bike/car/truck):");
             String type=sc.next().toLowerCase();
 

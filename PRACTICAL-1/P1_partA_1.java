@@ -21,7 +21,6 @@ public class P1_partA_1 {
                 case FIVE -> 5;
                 case TEN -> 10;
             };
-
             Total=Total+value;
             System.out.println("Your total is:" + Total);
         }

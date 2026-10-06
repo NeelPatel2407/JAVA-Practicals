@@ -43,7 +43,6 @@ public class P1_partB{
                 System.out.println("Invalid Choice");
                 continue;
             }
-
             switch(option){
                 case OPEN_ACCOUNT->System.out.println("Open Account -To be implemented later.");
                 case DEPOSIT->System.out.println("Deposit -To be implemented later.");
