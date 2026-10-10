@@ -39,6 +39,7 @@ public class P1_partB{
                 default->null;
             };
 
+            
             if(option==null){
                 System.out.println("Invalid Choice");
                 continue;

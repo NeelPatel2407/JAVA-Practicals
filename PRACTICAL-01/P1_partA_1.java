@@ -6,6 +6,7 @@ public class P1_partA_1 {
         FIVE,
         TEN
     }
+    
     public static void main(String []args){
         int snackprice=15;
         int Total=0;

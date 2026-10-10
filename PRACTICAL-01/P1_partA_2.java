@@ -5,7 +5,6 @@ record Vehicle(String number,String type){}
 public class P1_partA_2{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
-
         int total=0;
         int bike=0;
         int car=0;
