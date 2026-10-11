@@ -81,7 +81,6 @@ public class P7_partA_1 {
 
         return errors;
     }
-
     public static void main(String[] args) {
 
         SignupForm form = new SignupForm(
