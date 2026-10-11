@@ -5,7 +5,6 @@ private int temperature;
 private static final int MIN=16;
 private static final int MAX=30;
 private static int activeCount=0;
-
     Thermostat(String location, int startTemp)
     {
         this.location=location;
