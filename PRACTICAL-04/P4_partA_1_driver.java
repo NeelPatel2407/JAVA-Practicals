@@ -6,7 +6,6 @@ public class P4_partA_1_driver {
             "Abcd1234",
             "Abcd1234!"
         };
-
         for(String pw:passwords) {
             String result=P4_partA_1_PasswordChecker.strength(pw);
             System.out.println("Strength: " + result);
