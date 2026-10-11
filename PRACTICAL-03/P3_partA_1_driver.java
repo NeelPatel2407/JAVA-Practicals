@@ -7,7 +7,6 @@ public class P3_partA_1_driver {
             new P3_partA_1_point(5,6),
             new P3_partA_1_point(3,4)
         };
-
         int count=0;
 
         for(int i=0;i<arr.length;i++) {
