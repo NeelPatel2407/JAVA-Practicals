@@ -7,7 +7,6 @@ class DivideByZeroException extends Exception
         super(message);
     }
 }
-
 public class P8_partA_1
 {
     public static void main(String[] args)
