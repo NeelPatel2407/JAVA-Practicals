@@ -34,7 +34,6 @@ class Light implements Switchable
         System.out.println("Light OFF");
     }
 }
-
 @FunctionalInterface
 interface SwitchRule
 {
