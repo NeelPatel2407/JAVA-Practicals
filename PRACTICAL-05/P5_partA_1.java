@@ -13,7 +13,6 @@ class Circle extends Shape{
         return Math.PI * radius * radius;
     }
 }
-
 class Rectangle extends Shape{
     private double length;
     private double width;
