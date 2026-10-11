@@ -22,7 +22,6 @@ class P9_partA_2 {
             System.out.println(Thread.currentThread().getName() + " booked a seat");
         }
     }
-
     public static void main(String[] args) throws InterruptedException {
         Thread[] threads = new Thread[10];
 
